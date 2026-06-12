@@ -3,7 +3,7 @@
     "unity-synaptic": {
       "command": "C:/Program Files/nodejs/node.exe",
       "args": [
-        "C:/!Unity Projects/BasketRobbins/Assets/Synaptic AI Pro/MCPServer/index-supersave.js"
+        "C:/!Unity Projects/BasketRobbins/Assets/Synaptic AI Pro/MCPServer/index.js"
       ],
       "env": {}
     }

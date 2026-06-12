@@ -101,7 +101,11 @@ public class BasketBallMovement : MonoBehaviour
 
     void Start()
     {
-        GameManager.Instance.ballMovement_Script = this;
+        if(GameManager.Instance)
+        {
+            GameManager.Instance.ballMovement_Script = this;
+        }
+        
     }
 
     /// <summary>

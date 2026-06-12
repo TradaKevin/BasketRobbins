@@ -11,7 +11,7 @@ public class HoopBottomTrigger : MonoBehaviour
             gameManager = GameManager.Instance;
 
         if (gameManager == null)
-            Debug.LogError("HoopBottomTrigger: GameManager not found!", this);
+            Debug.LogWarning("HoopBottomTrigger: GameManager not found!", this);
     }
 
     private void OnTriggerEnter(Collider other)
