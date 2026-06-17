@@ -20,4 +20,12 @@ public class IntroMenuManager : MonoBehaviour
     {
         Application.Quit();
     }
+
+
+
+    public void OnClickBackOptions()
+    {
+        OptionMenu.SetActive(false);
+    }
+
 }
