@@ -4,7 +4,7 @@
       "type": "stdio",
       "command": "C:/Program Files/nodejs/node.exe",
       "args": [
-        "C:/!Unity Projects/BasketRobbins/Assets/Synaptic AI Pro/MCPServer/index.js"
+        "C:/!Unity Projects/BasketRobbins/Assets/Synaptic AI Pro/MCPServer/index-supersave.js"
       ],
       "cwd": "C:/!Unity Projects/BasketRobbins/Assets/Synaptic AI Pro/MCPServer"
     }
